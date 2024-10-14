@@ -1,0 +1,7 @@
+{
+  "name": "yotichi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

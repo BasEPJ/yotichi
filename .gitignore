@@ -44,3 +44,5 @@ Thumbs.db
 # Firebase config
 .firebaserc
 .firebase/
+
+/www
